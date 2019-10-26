@@ -12,13 +12,11 @@ Description
     * List Item 1
     * List Item 2
     """,
-    "price": "100.00",
-    "currency": "EUR",
     "auto_install": False,
-    "author": "IT Libertas",
-    "website": "https://itlibertas.com",
+    "author": "Somnium Laterum",
+    "website": "https://github.com/somnium-laterum",
     "depends": [
-
+        "website",
     ],
     "data": [
         "data/data.xml",
@@ -36,9 +34,8 @@ Description
     "test": [
 
     ],
-    "license": "Other proprietary",
+    'license': "LGPL-3",
     "images": [
-        "static/description/main.png",
     ],
     "update_xml": [
 
